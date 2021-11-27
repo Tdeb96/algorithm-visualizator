@@ -1,6 +1,7 @@
 #Custom #
 .venv/
 Pipfile.lock
+.isort.cfg
 
 # Compiled source #
 ###################
